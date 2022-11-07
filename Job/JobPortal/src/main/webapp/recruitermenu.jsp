@@ -1,0 +1,3 @@
+<hr>
+<pre><a href="recruiterprofile.jsp"style="color:white"> Profile </a> | <a href="recruiterviewjob.jsp"style="color:white"> View Posted Jobs </a> | <a href="recruiteraddjob.jsp"style="color:white"> Post a Job </a> | <a href="recruitersearch.jsp"style="color:white"> Search Job Seeker </a> | <a href="recruitermessagebox.jsp"style="color:white"> Messages </a> | <a href="recruiterfeedback.jsp"style="color:white"> Feedback </a></pre>
+<hr>
